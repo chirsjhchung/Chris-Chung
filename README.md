@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Docker and ThreeJS**
 
-- 👨‍💻 All of my projects are available at [chrisjhchung.com](chrisjhchung.com)
+- 👨‍💻 All of my projects are available at [http://www.chrisjhchung.com](chrisjhchung.com)
 
 - 📫 How to reach me **chrisjhchung@gmail.com**
 
