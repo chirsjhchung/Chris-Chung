@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chris</h1>
 <h3 align="center">Developer passionate about making products to help others</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chrisjhchung" alt="chrisjhchung" /></a> </p>
-
 - 🔭 I’m currently working on [Dashn](dashn.app)
 
 - 🌱 I’m currently learning **Docker and ThreeJS**
