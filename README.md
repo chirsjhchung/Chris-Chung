@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chris</h1>
 <h3 align="center">Developer passionate about making products to help others</h3>
 
-- 🔭 I’m currently working on [Dashn](dashn.app)
+- 🔭 I’m currently working on [Dashn](http://www.dashn.app)
 
 - 🌱 I’m currently learning **Docker and ThreeJS**
 
